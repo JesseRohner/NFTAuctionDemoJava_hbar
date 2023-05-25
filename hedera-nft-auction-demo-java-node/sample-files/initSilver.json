@@ -1,0 +1,11 @@
+{
+  "tokenid": "0.0.1212",
+  "auctionaccountid": "0.0.392766",
+  "endtimestamp": "",
+  "reserve": 0,
+  "minimumbid": 1000000,
+  "winnercanbid": true,
+  "title": "An auction for a silver coin",
+  "description": "This auction is for a silver coin"
+}
+
